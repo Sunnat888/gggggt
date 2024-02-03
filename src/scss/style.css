@@ -1,0 +1,91 @@
+.container {
+  max-width: 1320px;
+  padding: 0px 20px;
+  margin: 0 auto;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  margin-top: -7px;
+  height: 866px;
+  background-image: url(../img/header-backround-img.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  align-items: center;
+}
+
+.nav-list a:hover {
+  border-radius: 20px;
+  border: 1px solid black;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav-list {
+  margin-top: -30px;
+}
+
+.nav-link {
+  margin-top: -10px;
+  margin-right: 30px;
+}
+
+ol, ul {
+  display: flex;
+  list-style: none;
+  margin-right: 30px;
+}
+
+.logo-img {
+  width: 160px;
+  margin-top: 10px;
+}
+
+.logo {
+  margin-left: -350px;
+  padding: 50px 30px 30px 30px;
+  border-radius: 0px 0px 30px 30px;
+  background-color: black;
+}
+
+.link-icon {
+  margin-right: 30px;
+}
+
+.icons {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -36px;
+}
+
+.hero-container {
+  display: flex;
+  justify-content: center;
+  height: 380px;
+  margin-top: -300px;
+  background-image: url(../img/Trava\ 1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero-tree {
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  margin-top: -420px;
+}
+
+.hero-fruits {
+  width: 700px;
+  height: 300px;
+  margin-left: 630px;
+  margin-top: -200px;
+}/*# sourceMappingURL=style.css.map */
